@@ -1,0 +1,7 @@
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\bin\Debug\HelloKitties.exe.config
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\bin\Debug\HelloKitties.exe
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\bin\Debug\HelloKitties.pdb
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\obj\Debug\HelloKitties.csprojAssemblyReference.cache
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\obj\Debug\HelloKitties.csproj.CoreCompileInputs.cache
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\obj\Debug\HelloKitties.exe
+C:\Users\Іван\Desktop\GitDevops\cool-kitties\HelloKitties\HelloKitties\obj\Debug\HelloKitties.pdb
